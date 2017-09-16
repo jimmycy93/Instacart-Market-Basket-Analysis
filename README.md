@@ -16,4 +16,4 @@ The project take use of The Instacart Online Grocery Shopping Dataset 2017, Acce
 The file name of the preprocessed data is [Market Basket-Instacart.csv], the variable names are trivial.
 
 ## Link to project
-Project Link(http://rpubs.com/jimmycy93/308611)
+[Market Basket Anlayis](http://rpubs.com/jimmycy93/308611)
