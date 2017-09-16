@@ -13,7 +13,8 @@ The project take use of The Instacart Online Grocery Shopping Dataset 2017, Acce
    
    3. Added a column of user_id corresponding to order_id from [orders.csv]. 
 
-The file name of the preprocessed data is [Market Basket-Instacart], the variable names are trivial.
+The file name of the preprocessed data is [Market Basket-Instacart.csv], the variable names are trivial.
 
 ##Link to project
-Project Link [http://rpubs.com/jimmycy93/308611]
+
+Project Link[http://rpubs.com/jimmycy93/308611]
