@@ -7,13 +7,13 @@ After some survey on association rules, I decided to do some practice on market 
 ## Data Description
 The project take use of The Instacart Online Grocery Shopping Dataset 2017, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 2017-09-16. Some preprocessing were done to the files.
 
-   1. Extract only the first 14000 transactions from [order_products__train.csv].
+   1. Extract only the first 14000 transactions from **order_products__train.csv**.
     
-   2. Added a column of product_name corresponding to product_id from [products.csv].
+   2. Added a column of product_name corresponding to product_id from **products.csv**.
    
-   3. Added a column of user_id corresponding to order_id from [orders.csv]. 
+   3. Added a column of user_id corresponding to order_id from **orders.csv**. 
 
-The file name of the preprocessed data is [Market Basket-Instacart.csv], the variable names are trivial.
+The file name of the preprocessed data is **Market Basket-Instacart.csv**, the variable names are trivial.
 
 ## Link to project
 [Market Basket Anlayis](http://rpubs.com/jimmycy93/308611)
